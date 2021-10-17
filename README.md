@@ -1,8 +1,8 @@
 # COM4509/6509 Machine Learning and Adaptive Intelligence - University of Sheffield
 ## Autumn 2021 by Mauricio A Álvarez (1-5) and Haiping Lu (6-10)
-* Session 1: Introduction to Machine Learning 
-* Session 2: End-to-end machine learning
-* Session 3: Decision trees and ensemble methods
+* - [ ] Session 1: Introduction to Machine Learning 
+* - [ ] Session 2: End-to-end machine learning
+* - [ ] Session 3: Decision trees and ensemble methods
 * Session 4: Linear regression
 * Session 5: Automatic differentiation
 * Session 6: Logistic regression and PyTorch for deep learning
