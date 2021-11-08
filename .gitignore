@@ -1,6 +1,8 @@
 .ipynb_checkpoints/
+data
 
 *.zip
 R-vs-Python*/
 pdf/
 webpages/
+
