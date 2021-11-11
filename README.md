@@ -3,8 +3,8 @@
 * - [ ] Session 1: Introduction to Machine Learning 
 * - [ ] Session 2: End-to-end machine learning
 * - [ ] Session 3: Decision trees and ensemble methods
-* Session 4: Linear regression
-* Session 5: Automatic differentiation
+* - [ ] Session 4: Linear regression
+* - [ ] Session 5: Automatic differentiation
 * [Session 6: Logistic regression and PyTorch for deep learning](https://www.youtube.com/watch?v=hnAoAYSzZYI&list=PLuRoUKdWifzwCTez18kp8qL6WLXZhxtm8)
 * [Session 7: Neural networks](https://www.youtube.com/watch?v=SHw_a3YGwZQ&list=PLuRoUKdWifzxmvxhjjFztwY1kbfp8Pav6)
 * [Session 8: Unsupervised learning](https://www.youtube.com/watch?v=e8FFrxbYECo&list=PLuRoUKdWifzzN88NwRtFL3Cm2VhxUD9zq)
@@ -54,10 +54,10 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |Lab 6 - Logistic regression and PyTorch for deep learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/MLAI/blob/master/Labs/Lab%206%20-%20Logistic%20regression%20%26%20pytorch%20for%20DL.ipynb)|
 |Lab 7 - Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/MLAI/blob/master/Labs/Lab%207%20-%20Neural%20Networks.ipynb)|
 
-If you want to save changes to the Notebook, you need to save them before quitting. According to [this link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=Rmai0dD30XzL):
 
-> If you would like to save your changes from within Colab, you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts. To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
-
+## Workspace Sample
+![Exercise sheet 3 Question 3(a)](https://i.imgur.com/ZXh7r9D.png)
+Exercise sheet 3 Question 3(a)
 ## References
 
 #### Introductory level
