@@ -1,0 +1,73 @@
+X:
+ [[1 2]
+ [3 4]
+ [5 6]
+ [7 8]]
+y
+ [1 2 3 4]
+
+>>>
+KFold:
+
+>>>
+Split 1 :
+
+X for train: [[5 6]
+ [7 8]]
+y for train: [3 4]
+
+X for test: [[1 2]
+ [3 4]]
+y for test: [1 2]
+
+End of Split 1.
+<<<
+
+>>>
+Split 2 :
+
+X for train: [[1 2]
+ [3 4]]
+y for train: [1 2]
+
+X for test: [[5 6]
+ [7 8]]
+y for test: [3 4]
+
+End of Split 2.
+<<<
+
+>>>
+:
+
+>>>
+PredefinedSplit:
+
+>>>
+Split 1 :
+
+X for train: [[5 6]
+ [7 8]]
+y for train: [3 4]
+
+X for test: [[1 2]
+ [3 4]]
+y for test: [1 2]
+
+End of Split 1.
+<<<
+
+>>>
+Split 2 :
+
+X for train: [[1 2]
+ [3 4]]
+y for train: [1 2]
+
+X for test: [[5 6]
+ [7 8]]
+y for test: [3 4]
+
+End of Split 2.
+<<<
+
